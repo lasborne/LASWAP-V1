@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	symlinks = false
+	ignorecase = true
+	worktree = C:\\Users\\UZOR\\PycharmProjects\\untitled\\venv\\week15\\
+[user]
+	name = lasborne
+	email = okeke.michael1995@gmail.com
+[remote "origin"]
+	url = https://github.com/lasborne/LASWAP-V1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
